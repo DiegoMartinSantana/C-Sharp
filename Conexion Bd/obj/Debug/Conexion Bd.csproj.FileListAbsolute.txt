@@ -1,0 +1,7 @@
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\bin\Debug\Conexion Bd.exe.config
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\bin\Debug\Conexion Bd.exe
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\bin\Debug\Conexion Bd.pdb
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\obj\Debug\Conexion Bd.csproj.AssemblyReference.cache
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\obj\Debug\Conexion Bd.csproj.CoreCompileInputs.cache
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\obj\Debug\Conexion Bd.exe
+C:\Users\M-G\Desktop\ConsoleApp1\Conexion Bd\obj\Debug\Conexion Bd.pdb
